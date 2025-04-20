@@ -5,5 +5,8 @@ I created this GitHub repository to make it easier to use the official Saudi Fon
 
 The goal of this repository is to simplify embedding all font weights using a single link, making integration smoother for developers and designers.
 
+You can use this CDN in your web project:
+[https://cdn.jsdelivr.net/gh/mokhtarbsaid/saudi-font/all.min.css](https://cdn.jsdelivr.net/gh/mokhtarbsaid/saudi-font/all.min.css)
+
 — Mokhtar Bensaid  
 [https://mokhtarbensaid.com](https://mokhtarbensaid.com)
